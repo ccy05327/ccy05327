@@ -13,7 +13,7 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
 ### Goal
 
 - Publish an Android App on Google Play Store ([SDV](https://github.com/ccy05327/Sleep-Data-Visualization))
-- Not afraid of Algorihtms
+- Not afraid of Algorithms
 - GDSC UoL Lead(?) 2022-2023
 
 ### Working Towards
