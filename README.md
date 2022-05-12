@@ -28,7 +28,7 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
 
 - There are a few, but the top one is:
 
-    ![Flexibility](./Assets/flexibility.png)
+    <img src="./Assets/flexibility.png" alt="Flexibility" style="width: 70%">
 
     I value having flexibility in life that allows me to say yes to opportunities while keeping my physical & mental health in tack. 
 
@@ -36,7 +36,8 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
 
 - Same answer above, plus this:
 
-    ![Learn how to learn](./Assets/learn-how-to-learn.png)
+    <img src="./Assets/learn-how-to-learn.png" alt="Learn how to learn" style="width: 70%">
+
 
     I'm not British, so the whole system is new to me when I enter, but I soon developed a love for it. The whole "you only need 40 to pass, you learn everything provided to get 70, you do extra to get 70+" thing amazed me. 
 
