@@ -48,3 +48,4 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
     - I'm fairly active on it, so if you want to connect with me, feel free to go there
 - [UoL CS Reddit](https://www.reddit.com/r/UniversityOfLondonCS/)
 - [REPL FAQ](https://world-class.github.io/REPL/faq/)
+- [Podcast](https://anchor.fm/yinyinyin)
