@@ -14,11 +14,10 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
 
 - Publish an Android App on Google Play Store ([SDV](https://github.com/ccy05327/Sleep-Data-Visualization/tree/v2))
 - Not afraid of Algorithms
-- GDSC UoL Lead 2022-2023
+- GDSC UoL 4 Technical Events (no goal for non-technical ones but for sure have many)
 
 ### Working Towards
 
-- Leading tech-related projects
 - Knowing the whole process of web/app development cycle
 - Make an impact on [my](https://uol-taiwan.github.io/) & [uol](https://world-class.github.io/) community online
 
@@ -45,7 +44,5 @@ I'm currently a student from the 2020 October cohort at the **University of Lond
 
 - [UoL CS Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
 - [UoL Student Discord](https://discord.gg/tnPrm5vfAs)
-    - I'm fairly active on it, so if you want to connect with me, feel free to go there
 - [UoL CS Reddit](https://www.reddit.com/r/UniversityOfLondonCS/)
 - [REPL FAQ](https://world-class.github.io/REPL/faq/)
-- [Podcast](https://anchor.fm/yinyinyin)
